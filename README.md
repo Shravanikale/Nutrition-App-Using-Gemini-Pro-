@@ -47,6 +47,15 @@ Ensure you have the following installed:
 
 ## Screenshots
 
+### Home Page
+![Home Page](assets/Screenshot%20(207).png)
+
+### Upload Image Section
+![Upload Image](assets/Screenshot%20(208).png)
+
+### Analysis Result
+![Analysis Result](assets/Screenshot%20(209).png)
+
 
 ## Technologies Used
 - **Python**
